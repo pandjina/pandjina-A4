@@ -1,0 +1,7 @@
+{
+    "lunch": [
+          {"food": "Sandwich","price": 15, "calories": 230},
+          {"food": "Salad","price": 12, "calories": 180},
+          {"food": "Soup","price": 10, "calories": 100}
+    ]
+}
